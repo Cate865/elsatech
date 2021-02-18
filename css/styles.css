@@ -1,0 +1,144 @@
+body{
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+}
+.headerhome{
+    color: #F5F52C;
+    background-color:#DB1216 ; 
+    display: flex; 
+}
+.headerhome img{
+    width: 80px;
+    height: 80px;
+    padding-top: 30px;
+}
+.headerhome h1{
+    width: 40vw;
+    letter-spacing: 3px;
+
+}
+.mainhome{
+    color:#DB1216;
+    text-align: center;
+}
+.mainhome a{
+    color: #DB1216;
+    font-size: 40px;    
+}
+.aboutandprod{
+    display: flex;
+    border-bottom: 1px solid #DB1216;  
+}
+.aboutandprod a{
+    width: 50vw;
+    border-right: #DB1216 solid 1px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.contact{
+    padding-bottom: 100px;
+    padding-top: 100px;    
+}
+.footerhome{
+    color:#F5F52C ;
+    background-color:#DB1216 ;
+    border: 1px solid #DB1216;
+}
+.header{
+    display: flex;
+    height: 3vw;
+    margin: 0px;
+}
+.header img{
+    width: 40px;
+    height: 40px;
+}
+.header a{
+    padding-left: 20px;
+    padding-right:20px;
+    vertical-align: middle;
+}
+.logoandmenu{
+    display: flex;
+}
+.logo{
+    width: 60vw;
+    
+}
+.menu{
+    width: 40vw;
+    padding: 1.5vh 0vh;
+}
+main{
+    color: #F5F52C;
+}
+
+.aboutus{
+    background-color:#DB1216 ;
+    text-align: center;
+    line-height: 2;
+    height: 82.5vh; 
+    border: 1px solid #DB1216;    
+}
+.aboutus h1{
+    font-size: 45px;
+}
+.aboutus p{
+    font-size: 22.5px;
+}
+.productmain{
+    background-color:#DB1216 ;
+    margin: 0px;
+    height: 87vh;
+    margin:0px;
+    border: 1px solid #DB1216;
+}
+.productmain h1{
+    text-align: center;
+    padding-top: 10px;
+}
+.products{
+    display: flex;   
+}
+.products img{
+    width: 300px;
+    height: 300px;
+}
+.prod1{
+    padding-left: 110px;
+    padding-right: 55px;
+}
+.prod2{
+    padding-left: 55px;
+    padding-right: 55px;
+}
+.prod3{
+    padding-left: 55px;
+    padding-right: 110px;
+}
+.contactus{
+    background-color: #DB1216;
+    height: 82.5vh;
+    text-align: center;
+    line-height: 1.5;
+    vertical-align: middle;
+    border: 1px solid #DB1216;
+}
+.contactus h1{
+    font-size: 45px;
+}
+form{
+    font-size: 30px;
+    text-align: left;
+    padding: 0px 550px;
+}
+.footer{
+    color:#DB1216;
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+}
+button{
+    color: #DB1216;
+    font-family: 'Lato', sans-serif;
+}

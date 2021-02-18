@@ -1,3 +1,7 @@
 <?php
-include_once('index.html');
+include('index.html');
+include('aboutus.html');
+include('contact.html');
+include('products.html');
+include('../elsatech/css/styles.css');
 ?>
